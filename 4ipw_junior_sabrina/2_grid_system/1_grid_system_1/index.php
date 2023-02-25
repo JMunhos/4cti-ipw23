@@ -12,7 +12,7 @@
   </head>
   <body>
     
-	<div class="container"
+	<div class="container">
 	    <div class="row">
 	          <div class="col-12">
         		<header>
@@ -20,8 +20,16 @@
 				</header>
 		     </div>
 	    </div>
-	</div>
 	
+	<div class="row">
+	   <div class="col-4">
+	     <nav> Menu </nav>
+	</div>
+	<div class="col-8">
+	     <main>Conteudo</main>
+	    </div>
+	</div>
+</div>
 
     <!-- JavaScript (Opcional) -->
     <!-- jQuery primeiro, depois Popper.js, depois Bootstrap JS -->
